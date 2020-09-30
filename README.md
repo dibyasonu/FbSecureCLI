@@ -1,2 +1,2 @@
 # FbSecureCLI
-Change your password from commmand line
+It is a Python Script that changes your Fb Password hrough command line.
